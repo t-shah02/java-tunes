@@ -1,4 +1,4 @@
-## Music Player in Java -  CPSC 210 Personal Project
+## Music Player in Java - Personal Project
 ## By: Tanish Shah
 
 **Proposal**
